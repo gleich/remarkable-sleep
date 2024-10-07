@@ -1,4 +1,4 @@
-# remarkable_sleep
+# remarkable-sleep
 
 My custom sleep screen for my remarkable! Just run `make sync`
 
